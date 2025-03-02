@@ -1,25 +1,32 @@
 # PDSlingo
+**Profesor Responsable:**  Marcial Pamies  
+
+**Alumnos:**  
+- Pablo Ballesta  
+- Álvaro Miñarro  
+
+**Grupo:** 3.3 
+
 
 ## Introducción
 PDSlingo es una aplicación desarrollada en Java que permite a los usuarios aprender matemáticas y física de manera interactiva. Inspirada en Duolingo, la plataforma ofrece cursos creados por los propios usuarios, utilizando tarjetas con ejercicios para facilitar el aprendizaje progresivo.
 
 ## Índice
-- [PDSlingo](#pdslingo)
-  - [Introducción](#introducción)
-  - [Índice](#índice)
-  - [Actores](#actores)
-  - [Casos de Uso](#casos-de-uso)
-    - [Casos de Uso Desarrollados](#casos-de-uso-desarrollados)
-      - [1. Iniciar sesión](#1-iniciar-sesión)
-      - [2. Subir curso](#2-subir-curso)
-  - [Modelado de Dominio](#modelado-de-dominio)
-  - [Mockup](#mockup)
+- [Introducción](#introducción)
+- [Índice](#índice)
+- [Actores](#actores)
+- [Casos de Uso](#casos-de-uso)
+  - [Casos de Uso Desarrollados](#casos-de-uso-desarrollados)
+    - [1. Iniciar sesión](#1-iniciar-sesión)
+    - [2. Subir curso](#2-subir-curso)
+- [Modelado de Dominio](#modelado-de-dominio)
+- [Mockup](#mockup)
 
 ## Actores
 - **Usuario**: Es el actor principal y único del sistema. Su motivación es aprender y mejorar en matemáticas y física a través de cursos interactivos.
 
 ## Casos de Uso
-A continuación, se listan los principales casos de uso identificados en la aplicación:
+A continuación, se listan los principales casos de uso identificados en la aplicación cuyo único actor es el usuario:
 
 | # | Caso de Uso | Descripción |
 |---|---------------------------|------------------------------------------------|
